@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Final Year undergraduate student from BITS Pilani Goa.
+A BITS Pilani graduate and Software Engineer, I specialize in crafting digital solutions with the latest web technologies. Passionate about efficient coding and problem-solving, I'm dedicated to innovation and excellence in tech.
 
 
 ## 🌐 Socials:
