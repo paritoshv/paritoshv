@@ -1,5 +1,5 @@
 // Recomputes years of experience since 3 July 2023 and rewrites the
-// <!-- yoe:start -->…<!-- yoe:end --> span in README.md as "years.months".
+// <!-- yoe:start -->…<!-- yoe:end --> span in README.md as "years.months yoe".
 const fs = require("fs");
 
 const START = { year: 2023, month: 6, day: 3 }; // month is 0-indexed: 6 = July
@@ -10,7 +10,7 @@ let months =
 if (now.getUTCDate() < START.day) months -= 1;
 
 const years = Math.floor(months / 12);
-const label = `${years}.${months % 12} years`;
+const label = `${years}.${months % 12} yoe`;
 
 const file = "README.md";
 const before = fs.readFileSync(file, "utf8");
