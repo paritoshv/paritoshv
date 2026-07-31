@@ -2,10 +2,6 @@
 
 **Backend + LLM engineer** · <!-- yoe:start -->3.0 years<!-- yoe:end --> · Bangalore, India
 
-I build the backend that keeps AI products running — orchestration, durability, and the cost tracking behind production LLM features.
-
-Right now I'm at **Healthify**, on LLM orchestration pipelines and token/cost observability across 50+ features. Before that, **Metropolis Technologies** (reservation infra for 2.5M+ annual bookings, payments across four gateways) and **Texas Instruments** (APIs across two generations of FMCW radar).
-
 [paritosh.space](https://paritosh.space) · [LinkedIn](https://www.linkedin.com/in/paritoshbitspilani) · [X](https://twitter.com/litemonke) · [varshneyparitosh7@gmail.com](mailto:varshneyparitosh7@gmail.com)
 
 ---
