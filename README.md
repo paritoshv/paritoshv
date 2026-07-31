@@ -20,7 +20,7 @@
 
 ### Stack
 
-- **Languages** — Python, TypeScript, JavaScript, C, C++
+- **Languages** — Python, Go, TypeScript, JavaScript, C, C++
 - **Backend** — Django, Node.js, Celery, event-driven services, AWS
 - **Data** — MySQL, MongoDB, Redis, RabbitMQ, MQTT
 - **AI** — LLM orchestration, MCP, agents, token & cost observability, RAG
