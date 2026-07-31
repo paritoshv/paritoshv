@@ -1,11 +1,32 @@
-# 💫 About Me:
-A BITS Pilani graduate and Software Engineer, I specialize in crafting digital solutions with the latest web technologies. Passionate about efficient coding and problem-solving, I'm dedicated to innovation and excellence in tech.
+## Paritosh Varshney
 
+**Backend + LLM engineer** · <!-- yoe:start -->3.0 years<!-- yoe:end --> · Bangalore, India
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paritoshbitspilani) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange)](https://paritoshv.netlify.app/)
+I build the backend that keeps AI products running — orchestration, durability, and the cost tracking behind production LLM features.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+Right now I'm at **Healthify**, on LLM orchestration pipelines and token/cost observability across 50+ features. Before that, **Metropolis Technologies** (reservation infra for 2.5M+ annual bookings, payments across four gateways) and **Texas Instruments** (APIs across two generations of FMCW radar).
 
+[paritosh.space](https://paritosh.space) · [LinkedIn](https://www.linkedin.com/in/paritoshbitspilani) · [X](https://twitter.com/litemonke) · [varshneyparitosh7@gmail.com](mailto:varshneyparitosh7@gmail.com)
+
+---
+
+### What I'm building
+
+**[django-admin-mcp](https://github.com/paritoshv/django-admin-mcp)** — read-only Django admin access for AI agents over MCP. Every read runs through `ModelAdmin` permissions, secret fields are redacted, queries hit read replicas with timeouts. Running in production: debugging sessions dropped from hours to minutes, and agents now triage customer support tickets.
+
+**[faultline-orchestrator](https://github.com/paritoshv/faultline-orchestrator)** — durable multi-step LLM agent workflows. Validation gates, retries, and resume-after-failure so a long run survives a crash instead of starting over.
+
+**[multi-llm-web-orchestrator](https://github.com/paritoshv/multi-llm-web-orchestrator)** — Chrome side panel that fans a single prompt across ChatGPT, Claude, Gemini, and Grok through authenticated sessions, and puts the answers side by side.
+
+**[mikochan-the-mini-perplexity](https://github.com/paritoshv/mikochan-the-mini-perplexity)** — compact answer engine: live web search, grounded LLM answers, citations back to sources.
+
+---
+
+### Stack
+
+- **Languages** — Python, TypeScript, JavaScript, C, C++
+- **Backend** — Django, Node.js, Celery, event-driven services, AWS
+- **Data** — MySQL, MongoDB, Redis, RabbitMQ, MQTT
+- **AI** — LLM orchestration, MCP, agents, token & cost observability, RAG
+
+B.E. (Hons.) Electronics & Instrumentation, BITS Pilani Goa.
