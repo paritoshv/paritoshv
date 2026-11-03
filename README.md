@@ -1,6 +1,6 @@
 ## Paritosh Varshney
 
-**Backend engineer** · <!-- yoe:start -->3.3 yoe<!-- yoe:end --> · Bangalore, India
+**Backend engineer** · <!-- yoe:start -->3.4 yoe<!-- yoe:end --> · Bangalore, India
 
 [paritosh.space](https://paritosh.space) · [LinkedIn](https://www.linkedin.com/in/paritoshbitspilani) · [X](https://twitter.com/litemonke) · [varshneyparitosh7@gmail.com](mailto:varshneyparitosh7@gmail.com)
 
